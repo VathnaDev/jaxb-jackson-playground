@@ -1,0 +1,12 @@
+model/jackson/Image.java
+ model.jackson.Image
+model/XmlFormatter.java
+ model.XmlFormatter
+model/jackson/Document.java
+ model.jackson.Document
+JacksonExample.java
+ JacksonExample
+model/jaxb/Document.java
+ model.jaxb.Document
+model/jaxb/Image.java
+ model.jaxb.Image
